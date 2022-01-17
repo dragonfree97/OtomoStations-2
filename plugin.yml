@@ -1,0 +1,8 @@
+name: OtomoStations
+main: net.robynetzan.otomostations.OtomoStations
+version: 2.0.0
+commands:
+    station:
+      description: station setter
+      usage: /station
+      aliases: [st]
